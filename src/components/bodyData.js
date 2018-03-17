@@ -20,6 +20,8 @@ export default class AppBodyData extends React.Component {
 return(
     <Content>
       {articles}
+      {articles}
+
     </Content>
   );
 }
